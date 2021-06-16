@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# b-squeda-exhaustiva- 
+
 example
 =======
 # BUSQUEDA EXHAUSTIVA
@@ -23,7 +23,7 @@ Hola Christian soy Diana
 Hola soy Mateo
 
 
-Bienvenido a nuestro codigo 
+BIENVENIDO A NUESTRO CÓDIGO
 
 
 Esto se va a descantrolaaaaaar
