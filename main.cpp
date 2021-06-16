@@ -18,6 +18,7 @@ using namespace std;
              Si no existe un camino retorna la lista vacía.
     */
     int main() {
+	cout<<"Christian Soledispa";
 
     if laberinto[i][j] == 3:
         return [(i, j)]
