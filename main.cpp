@@ -17,6 +17,12 @@ using namespace std;
              hasta la posición en que se encuentra el queso.
              Si no existe un camino retorna la lista vacía.
     */
+/*int main( int argc, char *argv[ ], char *envp[ ] ){
+ cout << "hola mundo";
+
+ return 0;
+
+  }*/
     int main() {
 	  cout<<"Christian Soledispa";
     cout << "Josue Singaña\n";
