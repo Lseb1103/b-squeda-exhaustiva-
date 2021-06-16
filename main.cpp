@@ -24,11 +24,17 @@ using namespace std;
 
   }*/
     int main() {
+        i
 	    cout << "Realizando actualizaciones al código...."
         cout << "Integrantes:"
         cout << "Christian Soledispa";
         cout << "Josue Singaña\n";
         cout << "Diana Katherine Almeida A."
+
+    int a[] = {3,4,2,1,5};
+    int i, dato;
+    char band = 'F'
+    
 
 
     if laberinto[i][j] == 3:
