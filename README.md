@@ -15,7 +15,7 @@ Hola soy Mateo
 Bienvenido a nuestro codigo 
 Esto se va a descantrolaaaaaar
 
-Procederemos a segir
+Procederemos a seguir
 
 今日はセックスしたい
 でもあなたとだけ
