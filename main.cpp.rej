@@ -1,0 +1,29 @@
+diff a/main.cpp b/main.cpp	(rejected hunks)
+@@ -17,13 +17,27 @@
+              hasta la posición en que se encuentra el queso.
+              Si no existe un camino retorna la lista vacía.
+     */
++/*int main( int argc, char *argv[ ], char *envp[ ] ){
++ cout << "hola mundo";
++
++ return 0;
++
++  }*/
+     int main() {
++<<<<<<< HEAD
+         cout <<"Bienvenidos al laberinto"<<endl;
+         cout <<"Dado un laberinto en donde se ubica un queso, retorna en una lista de"<<endl;
+         cout <<"pares ordenados (x,y) que indican el camino desde una posición inicial(i,j) "<<endl;
+         cout <<"hasta la posición en que se encuentra elqueso."<<endl;
+         cout <<"Entradas: (i, j) : posición inicial a partir de donde se realizará la"<<endl;
+         cout <<"búsqueda de un camino hasta la posición del queso."<<endl;
++=======
++	    cout << "Realizando actualizaciones al código...."
++        cout << "Integrantes:"
++        cout << "Christian Soledispa";
++        cout << "Josue Singaña\n";
++        cout << "Diana Katherine Almeida A."
++>>>>>>> 9492afb609df1beabf80500222dae7ab14a8813f
+ 
+ 
+     if laberinto[i][j] == 3:
