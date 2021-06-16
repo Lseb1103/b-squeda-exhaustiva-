@@ -17,3 +17,11 @@ Esto se va a descantrolaaaaaar
 
 Procederemos a segir
 
+今日はセックスしたい
+でもあなたとだけ
+どこにいますか?
+どこにいますか?
+今日はセックスしたい
+でもあなたとだけ
+どこにいますか?
+どこにいますか?
