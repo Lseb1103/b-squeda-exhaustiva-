@@ -1,6 +1,6 @@
 # BUSQUEDA EXHAUSTIVA
 
-<<<<<<< HEAD
+<<<<<<< 
 Seguimos Activos
 =======
 Bad Bunny
@@ -8,13 +8,27 @@ Bad Bunny
 
 S.O.A.D
 Hola soy Jouse
+
+
 Hola Josue soy Christian
-Hola Christian soy Diana 
+
+
+Hola Christian soy Diana
+
+
 Hola soy Mateo
+
+
 Bienvenido a nuestro codigo 
+
+
 Esto se va a descantrolaaaaaar
 
+
+
 Procederemos a seguir
+
+
 
 今日はセックスしたい
 でもあなたとだけ
