@@ -19,12 +19,6 @@ using namespace std;
     */
     int main() {
         cout <<"Bienvenidos al laberinto"<<endl;
-        cout <<"Dado un laberinto en donde se ubica un queso, retorna en una lista de"<<endl;
-        cout <<"pares ordenados (x,y) que indican el camino desde una posición inicial(i,j) "<<endl;
-        cout <<"hasta la posición en que se encuentra elqueso."<<endl;
-        cout <<"Entradas: (i, j) : posición inicial a partir de donde se realizará la"<<endl;
-        cout <<"búsqueda de un camino hasta la posición del queso."<<endl;
-
 
     if laberinto[i][j] == 3:
         return [(i, j)]
